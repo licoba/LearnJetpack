@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/androidTest/java/com/example/learnjetpack/ExampleInstrumentedTest.kt
+/app/src/test/java/com/example/learnjetpack/ExampleUnitTest.kt
